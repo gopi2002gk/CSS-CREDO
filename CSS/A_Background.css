@@ -1,7 +1,19 @@
-body {
-    background-image: url("../Image/collegeLogo.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-  
- }
+#para-1{
+
+    border-width : 3px;
+    border-style : solid;
+    border-color:red;
+}
+/* W S C*/
+#para-2{
+    border : 3px solid green; 
+}
+
+#para-3{
+    border : 3px solid blue;
+    border-radius: 100px;
+}
+
+button {
+    border-radius: 100px;
+}
